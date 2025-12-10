@@ -14,7 +14,7 @@ I am a post-graduate student at the **Indian Institute of Science (IISc)**, spec
 ---
 
 ## 🏛️ Project Archive
-**[📂 B.Tech Projects Portfolio]([LINK_TO_BTECH_ARCHIVE_REPO](https://github.com/swapniljoshi0201/Btech_Projects_2020-2024_Archive))**
+**[📂 B.Tech Projects Portfolio](https://github.com/swapniljoshi0201/Btech_Projects_2020-2024_Archive)**
 * A collection of my undergraduate research and development projects.
 
 ---

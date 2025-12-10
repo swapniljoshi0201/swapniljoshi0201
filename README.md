@@ -7,14 +7,14 @@ I am a post-graduate student at the **Indian Institute of Science (IISc)**, spec
 ---
 
 ## 📚 Current Work (M.Tech)
-**[📂 IISc Semester 1 Coursework](LINK_TO_IISC_SEM1_REPO)**
+**[📂 IISc Semester 1 Coursework]([LINK_TO_IISC_SEM1_REPO](https://github.com/swapniljoshi0201/IISc_Sem_1))**
 * **Keywork:** Computational Methods of Optimization (CMO) & Data Structures (DSA) Assignements and Lab Reports.
 
 
 ---
 
 ## 🏛️ Project Archive
-**[📂 B.Tech Projects Portfolio](LINK_TO_BTECH_ARCHIVE_REPO)**
+**[📂 B.Tech Projects Portfolio]([LINK_TO_BTECH_ARCHIVE_REPO](https://github.com/swapniljoshi0201/Btech_Projects_2020-2024_Archive))**
 * A collection of my undergraduate research and development projects.
 
 ---

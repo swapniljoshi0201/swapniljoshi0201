@@ -2,7 +2,7 @@
 
 ### 🎓 M.Tech AI at IISc 🎓 
 
-I am a post-graduate student at the **Indian Institute of Science (IISc)**, specializing in Artificial Intelligence. My current focus is Vision-Action-Language models ,Ml and Optimization.
+I am a post-graduate student at the **Indian Institute of Science (IISc)**, specializing in Artificial Intelligence. My current focus is Vision-Language-Action models ,ML and Optimization.
 
 ---
 

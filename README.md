@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Swapnil Joshi! 👋
 
-<!--
-**swapniljoshi0201/swapniljoshi0201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 M.Tech AI at IISc 🎓 
 
-Here are some ideas to get you started:
+I am a post-graduate student at the **Indian Institute of Science (IISc)**, specializing in Artificial Intelligence. My current focus is Vision-Action-Language models ,Ml and Optimization.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📚 Current Work (M.Tech)
+**[📂 IISc Semester 1 Coursework](LINK_TO_IISC_SEM1_REPO)**
+* **Keywork:** Computational Methods of Optimization (CMO) & Data Structures (DSA) Assignements and Lab Reports.
+
+
+---
+
+## 🏛️ Project Archive
+**[📂 B.Tech Projects Portfolio](LINK_TO_BTECH_ARCHIVE_REPO)**
+* A collection of my undergraduate research and development projects.
+
+---

@@ -7,7 +7,7 @@ I am a post-graduate student at the **Indian Institute of Science (IISc)**, spec
 ---
 
 ## 📚 Current Work (M.Tech)
-**[📂 IISc Semester 1 Coursework]([(https://github.com/swapniljoshi0201/IISc_Sem_1)])**
+**[📂 IISc Semester 1 Coursework]([https://github.com/swapniljoshi0201/IISc_Sem_1])**
 * **Keywork:** Computational Methods of Optimization (CMO) & Data Structures (DSA) Assignements and Lab Reports.
 
 

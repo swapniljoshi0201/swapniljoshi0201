@@ -21,6 +21,6 @@ I am a post-graduate student at the **Indian Institute of Science (IISc)**, spec
 
 ## 🧰 Python-ML-Stack
 **[📂 Python-ML-Stack](https://github.com/swapniljoshi0201/Python-ML-Stack)**  
-Python, NumPy, Pandas, Matplotlib practice notebooks for ML.
+* Python, NumPy, Pandas, Matplotlib practice notebooks for ML.
 
 ---
